@@ -8,7 +8,6 @@ geometry: margin = 0.5in
 spacing: single
 papersize: letter
 subparagraph: yes
-
 editor_options: 
   chunk_output_type: console
 classoption: twocolumn
